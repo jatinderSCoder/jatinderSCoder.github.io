@@ -1,5 +1,4 @@
-# jatinderSCoder.github.io
-## STUDENT INDUCTION PROGRAM
+# STUDENT INDUCTION PROGRAM
 | Date | Resorce Person | Description |
 | :-----: | :---: | :---: |
 | 11-07-24 | Dr.Arvind Dhingra | Motivate Students about studies and tell us about the clubs and various activities of the institution |
