@@ -1,6 +1,7 @@
 # STUDENT INDUCTION PROGRAM
+
 | Date | Resorce Person | Description |
-| :-----: | :---: | :---: |
+|-----|---|---|
 | 11-07-24 | Dr.Arvind Dhingra | Motivate Students about studies and tell us about the clubs and various activities of the institution |
 | 11-07-24 | Dr.Parminder Singh |Encourage students about studies and curricular activities and 3Ps of success (Passion,Presistence and Patience) |
 | 11-07-24 | Dr.H.S. Rai | Firstly he conducts about what students think about exams and then he tells about what should we have to think about exams as a challenge and to prove yourself in studies and importance of exams. I like it very much it literally changes my thinking about exams |
