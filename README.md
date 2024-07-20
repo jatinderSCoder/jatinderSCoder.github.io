@@ -13,9 +13,7 @@
 
 MY EXCEL CERTIFICATE
 
-![Jatinder_Singh20240720-73-c4g7gd](https://github.com/user-attachments/assets/7b6056a7-fe7d-45d2-a226-5
-8d256ac3f1d)
-
+![Jatinder_Singh20240720-73-c4g7gd](https://github.com/user-attachments/assets/8a4c7405-1f0a-4f31-bcc8-e2a59d65e797)
 It was a very wonderful experience in excel.I learn many new things from the course and many function which I can use in my projects.
 
  MY JAVA CERTIFICATE
