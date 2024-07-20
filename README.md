@@ -17,8 +17,7 @@ MY EXCEL CERTIFICATE
 It was a very wonderful experience in excel.I learn many new things from the course and many function which I can use in my projects.
 
  MY JAVA CERTIFICATE
-To check
-[Click Here](https://github.com/jatinderSCoder/jatinderSCoder.github.io/blob/main/Jatinder_Singh20240716-73-hl84xm%20(1).jpg)
 
+![Jatinder_Singh20240716-73-hl84xm (1)](https://github.com/user-attachments/assets/0b6bc90c-808a-4a8e-b643-b25b45755e38)
 It was a very nice experience.I am very great fond of java prograaming.I also learning java in my School.This course help me to enchance my skills in Java
 
