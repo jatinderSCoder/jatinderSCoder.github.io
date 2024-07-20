@@ -10,4 +10,7 @@
 | 15-07-24 | Dr.Randhir Singh | Teaches how to use Github and make your own website and what will be the exam making scheme of the Induction program |
 | 15-07-24 | Dr.Pyare Lal | Motivate students about Human values,Human Nature to study and get right understanding to become a good Human Being |
 | 15-07-24 | Dr.Sony Goyal | Motivate students by giving Life Lesson as"JOSH" Journey On Success Highway and give two mantras of success that we should give our 100% to the work what we are doing and Do what we love & Love what we are doing |
+# MY EXCEL CERTIFICATE
+https://github.com/jatinderSCoder/jatinderSCoder.github.io/blob/main/Jatinder_Singh20240720-73-c4g7gd.jpg
+
 
