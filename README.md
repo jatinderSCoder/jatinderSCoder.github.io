@@ -12,12 +12,14 @@
 | 15-07-24 | Dr.Sony Goyal | Motivate students by giving Life Lesson as"JOSH" Journey On Success Highway and give two mantras of success that we should give our 100% to the work what we are doing and Do what we love & Love what we are doing |
 
 MY EXCEL CERTIFICATE
-[excel certificate](https://github.com/jatinderSCoder/jatinderSCoder.github.io/blob/main/Jatinder_Singh20240720-73-c4g7gd.jpg)
+To check
+[Click Here](https://github.com/jatinderSCoder/jatinderSCoder.github.io/blob/main/Jatinder_Singh20240720-73-c4g7gd.jpg)
 
 It was a very wonderful experience in excel.I learn many new things from the course and many function which I can use in my projects.
 
  MY JAVA CERTIFICATE
-[java certificate](https://github.com/jatinderSCoder/jatinderSCoder.github.io/blob/main/Jatinder_Singh20240716-73-hl84xm%20(1).jpg)
+To check
+[Click Here](https://github.com/jatinderSCoder/jatinderSCoder.github.io/blob/main/Jatinder_Singh20240716-73-hl84xm%20(1).jpg)
 
 It was a very nice experience.I am very great fond of java prograaming.I also learning java in my School.This course help me to enchance my skills in Java
 
