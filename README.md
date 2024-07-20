@@ -12,8 +12,8 @@
 | 15-07-24 | Dr.Sony Goyal | Motivate students by giving Life Lesson as"JOSH" Journey On Success Highway and give two mantras of success that we should give our 100% to the work what we are doing and Do what we love & Love what we are doing |
 
 MY EXCEL CERTIFICATE
-To check
-[Click Here](https://github.com/jatinderSCoder/jatinderSCoder.github.io/blob/main/Jatinder_Singh20240720-73-c4g7gd.jpg)
+![Jatinder_Singh20240720-73-c4g7gd](https://github.com/user-attachments/assets/7b6056a7-fe7d-45d2-a226-5
+8d256ac3f1d)
 
 It was a very wonderful experience in excel.I learn many new things from the course and many function which I can use in my projects.
 
